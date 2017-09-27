@@ -1,5 +1,7 @@
+## Description
+A program that can take in a user's formatted letter and via usage of a combination of Google's Civic Information API and Lob's API, we can detect the user's local head of government and send the letter to them.
+
 ## Instructions
-A program that can take a user's personal address and send a letter to their local head of government.
 
 To test out the program, run
 ```
