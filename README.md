@@ -1,4 +1,5 @@
 ## Instructions
+A program that can take a user's personal address and send a letter to their local head of government.
 
 To test out the program, run
 ```
